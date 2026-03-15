@@ -1,4 +1,4 @@
-# FUTURE_DS_04
+
 ## Traffic Accident Data Analysis 🚦
 
 This project is part of the **Data Science Internship Program at SkillCraft Technology**.  
